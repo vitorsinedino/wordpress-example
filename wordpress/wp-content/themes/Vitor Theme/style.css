@@ -1,0 +1,22 @@
+/* 
+Theme Name: Vitor Theme
+Theme URL: 
+Description: Twenty nineteen extension theme
+Theme Author: Vitor Sinedino
+Author URL: 
+Template: twentynineteen
+Version: 1.0.0 
+Text Domain: twentytwenty-child 
+*/
+
+#colophon{
+    display: none;
+}
+
+#masthead{
+    display: none;
+}
+
+h1:not(.site-title):before, h2:before {
+    background: none;
+}
